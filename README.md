@@ -1,13 +1,21 @@
 ### Hi there 👋
 
 This a song,
+
 About coding all night long,
+
 With my mate Steven Wong,
+
 Who is very strong.
+
 He refuses to to be wrong,
+
 This song keeps going on,
+
 I think I am trying to prolong,
+
 Trying to find where I belong.
+
 So hire me.
 
 <!--
